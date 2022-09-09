@@ -34,6 +34,9 @@ Source code taken from https://github.com/yankils/hello-world.
 
 ![](./Jenkin's_Ready.png)
 
+* Username is admin
+* To grab the password execute 'cat /var/lib/jenkins/secrets/initial_Admin_Password' in the remote instance
+
 ![](./Jenkin's_DashBoard.png)
 
 
